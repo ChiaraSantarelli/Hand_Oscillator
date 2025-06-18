@@ -8,6 +8,6 @@
   ],
   "compilerOptions": {
     "checkJs": true,
-    "target": "es2023"
+    "target": "es2022"
   }
 }
