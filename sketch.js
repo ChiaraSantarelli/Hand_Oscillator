@@ -34,8 +34,7 @@ function preload() {
 
 function setup() {
   const scale = 2;
-  //createCanvas(640 * scale, 480 * scale);
-  createCanvas(windowWidth, windowHeight);
+  createCanvas(640 * scale, 480 * scale);
 
   // @ts-ignore
   osc = new p5.Oscillator("sine");
